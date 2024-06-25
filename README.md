@@ -5,7 +5,7 @@ This directory contains the LMATools package, related Jupyter notebooks, and add
 
 ## Installation Instructions
 
-1. Unzip the `lmatools_combined_with_new_scripts.zip` file.
+1. Unzip the `lmatools_notebooks.zip` file.
 2. Navigate to the unzipped directory.
 3. Run the following command to install the `lmatools` package:
 
